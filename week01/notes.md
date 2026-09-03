@@ -1,4 +1,4 @@
-# Week 01 (2026/07/18) – Introduction to ML
+# Week 01 (2026/08/18) – Introduction to ML
 
 ## Key concepts
 
