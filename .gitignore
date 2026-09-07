@@ -7,6 +7,7 @@ _pycache__/
 *.csv
 *.log
 *.tmp
+*.pdf
 
 .env
 .env.*
